@@ -63,3 +63,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # ADDITIONAL GEMS
 gem 'activeadmin'
+gem 'lockup'
